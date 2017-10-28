@@ -51,7 +51,7 @@ header a {
   border: 1px solid black;
 }
 
-.column.medium {
+.column.meduim {
   width: 300px;
   border: 1px solid black;
 }
@@ -78,5 +78,9 @@ header a {
 }
 
 .text-content {
+  border: 1px solid black;
+}
+
+.narrative  {
   border: 1px solid black;
 }
