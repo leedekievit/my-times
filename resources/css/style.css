@@ -60,3 +60,23 @@ header a {
   width: 240px;
   border: 1px solid black;
 }
+
+.lead-story {
+  border: 1px solid black;
+}
+
+.image-content  {
+  border: 1px solid black;
+}
+
+.stories  {
+  border: 1px solid black;
+}
+
+.story  {
+  border: 1px solid black;
+}
+
+.text-content {
+  border: 1px solid black;
+}
